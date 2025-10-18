@@ -42,9 +42,9 @@ Databases    : SQlite,SQL,PostgresSQL,MariaDB,Deno
 ## 🚀 Featured Projects
 
 <!-- Add your best projects here -->
-- **[Project Name](link)** - Brief description of what it does
-- **[Project Name](link)** - Brief description of what it does
-- **[Project Name](link)** - Brief description of what it does
+- Some and it much in the future.
+<!-- - **[Project Name](link)** - Brief description of what it does
+- **[Project Name](link)** - Brief description of what it does-->
 
 ## 📫 Connect With Me
 
@@ -61,8 +61,8 @@ Databases    : SQlite,SQL,PostgresSQL,MariaDB,Deno
 
 - 🔭 Currently working on: **AI News Agent**
 - 👯 Looking to collaborate on: **All Tech & Mine**
-- 🤔 Looking for help with: **[What You Need Help With]**
-- 💬 Ask me about: **[Your Expertise]**
+- 🤔 Looking for help with: **People**
+- 💬 Ask me about: **All thing Maybe I know it**
 - ⚡ Fun fact: **Don't now but I be live LOL**
 
 ---
